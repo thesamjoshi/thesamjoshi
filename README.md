@@ -1,4 +1,6 @@
-## Hi there 👋
+Hello, I am Samarth Joshi! I am a Software Engineer who loves to solve problems through code! ⌨
+
+## About Me
 
 <!--
 **thesamjoshi/thesamjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
